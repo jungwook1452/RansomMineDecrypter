@@ -1,0 +1,2 @@
+RansomMineDecrypter.exe (Path)
+ex: RansomMineDecrypter.exe "C:\Users\Administrator"
